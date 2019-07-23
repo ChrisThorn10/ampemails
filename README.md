@@ -1,4 +1,4 @@
-# ampemails
+# amp emails
 Code for AMP Emails
 
 This is a new repo used to host AMP4Email code samples and experiments.  Files can be pasted into the amp playground at [amp.gmail.dev](amp.gmail.dev) to test functionality
