@@ -1,5 +1,7 @@
 This form uses field sets to hide and show sets of questions.  Upon successful submission, the form will redirect to a website.  Upon generation of an error a message will be displayed containing further instructions.
 
+To generate an error, select 'Select this Option to Generate an Error' on the second question in the form.  Any other option selected will succesfully redirect you to another page.
+
 Note: originally this email had a form with 3 questions, however I was having issues with including 2 sliders in one form.  Going to do some debugging and testing to see if its an actual issue or user error.
 
 
